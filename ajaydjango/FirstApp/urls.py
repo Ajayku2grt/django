@@ -20,4 +20,12 @@ from FirstApp.views import displaydatetime
 urlpatterns = [
     path('', display),
     path('time/',displaydatetime),
+    fvasfg
+    gsa
+    gf
+    fg
+    gdf
+    g
+    fdg
+    
 ]
